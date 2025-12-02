@@ -92,4 +92,3 @@ You can add your image files like this:
 ![Results](images/results.png)
 
 
-If you want, I can format and arrange your screenshots in a beautiful grid.
