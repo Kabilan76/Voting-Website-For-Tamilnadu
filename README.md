@@ -74,7 +74,7 @@ Publish Results	Select & publish winners
 Results Dashboard	Displays final results in structured format
 ⚙️ Tech Stack
 Category	Technology
-Frontend	TypeScript
+Frontend	React Js
 Backend	Flask
 Database	MySQL 
 Version Control	Git & GitHub
