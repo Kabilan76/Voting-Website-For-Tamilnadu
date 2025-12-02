@@ -1,69 +1,91 @@
-# Welcome to your Lovable project
+📌 Overview
 
-## Project info
+MARVEL கட்சி Election Management System is a web-based application designed to simplify and digitalize the internal election workflow of a political party.
+It provides tools for voter authentication, candidate management, vote tracking, and result publishing—all through a clean, Tamil-friendly interface.
 
-**URL**: https://lovable.dev/projects/930c24c7-d45d-47ab-b40f-57fb35864ab4
+This system ensures transparency, accuracy, and convenience for both administrators and voters.
 
-## How can I edit this code?
+🚀 Features
+🔐 Authentication
 
-There are several ways of editing your application.
+Admin Login
 
-**Use Lovable**
+Voter Login
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/930c24c7-d45d-47ab-b40f-57fb35864ab4) and start prompting.
+Secure credential validation
 
-Changes made via Lovable will be committed automatically to this repo.
+🗳️ Candidate Management
 
-**Use your preferred IDE**
+Add new candidates
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Select district & constituency
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+View, edit, and remove candidates
 
-Follow these steps:
+Tamil localized interface
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Clear and modern UI layout
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+📊 Voting & Results
 
-# Step 3: Install the necessary dependencies.
-npm i
+Input vote counts per candidate
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Track total votes
 
-**Edit a file directly in GitHub**
+Auto-select and confirm winners
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Publish results to dashboard
 
-**Use GitHub Codespaces**
+Real-time statistics display
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📁 Admin Dashboard
 
-## What technologies are used for this project?
+Manage constituencies
 
-This project is built with .
+Manage voter records
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Candidate list preview
 
-## How can I deploy this project?
+Result overview page
 
-Simply open [Lovable](https://lovable.dev/projects/930c24c7-d45d-47ab-b40f-57fb35864ab4) and click on Share -> Publish.
+🖥️ User Interface
 
-## I want to use a custom domain - is that possible?
+Fully responsive design
 
-We don't support custom domains (yet). If you want to deploy your project under your own domain then we recommend using Netlify. Visit our docs for more details: [Custom domains](https://docs.lovable.dev/tips-tricks/custom-domain/)
+Tamil labels for accessibility
+
+Easy navigation menus
+
+Clean layout for all management pages
+
+🏛️ System Pages
+Page	Description
+Home Page	Entry point with navigation options
+Voter Login	Secure access for voters
+Admin Login	Separate admin authentication
+Register Candidate	Add new candidates with district/constituency
+Manage Candidates	Edit or delete candidate profiles
+Manage Votes	Update vote counts
+Publish Results	Select & publish winners
+Results Dashboard	Displays final results in structured format
+⚙️ Tech Stack
+Category	Technology
+Frontend	HTML, CSS, JavaScript
+Backend	Node.js / PHP (update based on your project)
+Database	MySQL / MongoDB (update accordingly)
+Version Control	Git & GitHub
+Language Support	English + Tamil
+
+(Tell me your exact backend & database to update this.)
+
+📸 Screenshots
+
+You can add your image files like this:
+
+![Home Page](images/home.png)
+![Login](images/login.png)
+![Add Candidate](images/add_candidate.png)
+![Results](images/results.png)
+
+
+If you want, I can format and arrange your screenshots in a beautiful grid.
