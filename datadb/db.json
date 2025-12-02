@@ -1,0 +1,31 @@
+{
+  "voters": [
+    {
+      "id": 1,
+      "userName": "John Doe",
+      "phoneNumber": "9876543210",
+      "password": "password123",
+      "userDistrict": "Chennai",
+      "userConstituency": "Egmore",
+      "hasVoted": false
+    },
+    {
+      "id": 2,
+      "userName": "Jane Smith",
+      "phoneNumber": "9123456780",
+      "password": "mypassword",
+      "userDistrict": "District B",
+      "userConstituency": "Constituency Y",
+      "hasVoted": true
+    },
+    {
+      "id": 3,
+      "userName": "Ravi Kumar",
+      "phoneNumber": "9988776655",
+      "password": "vote2024",
+      "userDistrict": "District C",
+      "userConstituency": "Constituency Z",
+      "hasVoted": false
+    }
+  ]
+}
