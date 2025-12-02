@@ -74,13 +74,12 @@ Publish Results	Select & publish winners
 Results Dashboard	Displays final results in structured format
 ⚙️ Tech Stack
 Category	Technology
-Frontend	HTML, CSS, JavaScript
-Backend	Node.js / PHP (update based on your project)
-Database	MySQL / MongoDB (update accordingly)
+Frontend	TypeScript
+Backend	Flask
+Database	MySQL 
 Version Control	Git & GitHub
 Language Support	English + Tamil
 
-(Tell me your exact backend & database to update this.)
 
 📸 Screenshots
 
