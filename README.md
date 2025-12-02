@@ -87,8 +87,9 @@ Language Support	English + Tamil
 You can add your image files like this:
 
 ![Home Page](images/home.png)
-![Login](images/login.png)
-![Add Candidate](images/add_candidate.png)
-![Results](images/results.png)
+![Login - Admin](images/login-ad.png)
+![Login - User](images/login-u.png)
+![District - Candidates](images/dist-can.png)
+![Results](images/res.png)
 
 
