@@ -1,3 +1,6 @@
+⭐ MARVEL கட்சி – Election Management System
+
+A modern, streamlined, Tamil-supported digital platform for conducting and managing party elections.
 📌 Overview
 
 MARVEL கட்சி Election Management System is a web-based application designed to simplify and digitalize the internal election workflow of a political party.
